@@ -1,0 +1,138 @@
+{
+  "main": {
+    "name":"Piyush Gautam",
+    "description":"Machine Learning and Data Science Enthusiast. Also working with ReactJs and creating creative websites for fun purposes, Currently trying to become everyday blogger. Any Support is appreciated!",
+    "image":"profilepic.jpg",
+    "bio":"I’m a third-year Industrial And Systems Engineering undergraduate student at the Indian Institute of Technology Kharagpur. My main specialization is in Quality Engineering Design And Manufacturing. From the beginning of 2019, I have taken many open online courses and developed many skills over time. Right now, I’m looking for a part-time internship in Data Science, Software Development and Machine learning. Contact me anytime.",
+    "contactmessage":"Currently Looking for Data Science and Machine Learning interns. Contact me anytime.",
+    "email": "piyushgautamtg@gmail.com",
+    "phone": "+91-9820197246",
+    "github":"https://github.com/Piyush-Gautam",
+    "project":"https://github.com/nordicgiant2/react-nice-resume",
+    "address":{
+      "street":"Street No.1",
+      "city":"Delhi",
+      "state":"Delhi",
+      "zip": "110053"
+    },
+    "website": "",
+    "resumedownload":"https://drive.google.com/file/d/1wUqmiB7BPRnvgRZ4bD3-KwbXBHi4QBww/view?usp=sharing",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/PiyushGautamtg",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/piyush-gautam-tg/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/piyush_gautamji/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/Piyush-Gautam",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"In the effort to excel something, you always wind up with something else",
+    "education":[
+      {
+        "school":"Indian Institute Of Technology Kharagpur",
+        "degree":"Dual-degree M.Tech/B.Tech",
+        "graduated":"2024",
+        "description":"Course: Quality Engineering Design And Manufacturing (Mechanical Vertical) under Industrial And Systems Engineerig Department"
+      },
+      {
+        "school":"Sri Chaitanya",
+        "degree":"HSC/Intermediate",
+        "graduated":"March 2019",
+        "description":"My experience at Sri Chaitanya is among the most memorables in my life. Life without technology in 2019 sucks! I used to wake up at 6 and sleep at 12, thats the most hard-work I could have ever done. Many thanks to my caring professors who made me complete my journey and got me into IIT"
+      },
+      {
+        "school":"Arwachin Bharti Bhawan Senior Secondary School",
+        "degree":"Secondary",
+        "graduated":"March 2017",
+        "description":""
+      }
+    ],
+    "work":[
+      {
+        "company":"My-Webpage",
+        "title":"Used Reactjs",
+        "years":"March 2021",
+        "description":""
+      },
+      {
+        "company":"Computer Graphics Lab",
+        "title":"Game Developer",
+        "years":"November 2019 - April 2020",
+        "description":""
+      },
+      {
+        "company":"PressN-Play Music Player",
+        "title":"Android Studio",
+        "years":"March 2021-April 2021",
+        "description":"•Built a Music Player and deployed it as an android application. •Worked on Android Studio –used java language to integrate various functions of the app with the module"
+      }
+    ],
+    "skills":[
+      {
+        "name":"Python",
+        "level":"80%"
+      },
+      {
+        "name":"My-sql",
+        "level":"55%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"Machine Learning",
+        "level":"90%"
+      },
+      {
+        "name":"C/C++",
+        "level":"90%"
+      },
+      {
+        "name":"Data Structures And OOP",
+        "level":"80%"
+      },
+      {
+        "name":"Unity",
+        "level":"70%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"PressN-Play Music player app",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"01.jpg",
+        "url":""
+      },
+      {
+        "title":"React Js Resume Website",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"02.jpg",
+        "url":""
+      }
+      
+    ]
+  }
+}
