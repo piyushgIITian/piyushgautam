@@ -120,8 +120,13 @@ class Contact extends Component {
               <div className="widget widget_tweets">
                 <h4 className="widget-title">Latest Tweets</h4>
                 <ul id="twitter">
-                  <li>
-                    <span>No New Tweet</span>
+                 <li>
+                    <span>
+                      Got selected for the role of Search Engineer in 
+                        Flying Flamingos India Pvt Ltd. Very Excited to start 
+                        working from 8 september.
+                      <a href="https://flamapp.com/">Flam</a>
+                    </span>
                   </li>
                 </ul>
               </div>
