@@ -69,8 +69,14 @@
     ],
     "work":[
       {
-        "company":"My-Webpage",
-        "title":"Used Reactjs",
+        "company":"Flying Flamingos India Pvt. Ltd.",
+        "title":"Search Engineer",
+        "years":"September 2021 - Present",
+        "description":"- Build predictive, forecasting, optimization and simulation models using statistics, Machine Learning and AI programs.\n- Create a search engine based on statistical models to give the most relevant results.\n- Optimize searches based on general preferences and interests."
+      },
+      {
+        "company":"Self-Project",
+        "title":"Website using ReactJs",
         "years":"March 2021",
         "description":""
       },
@@ -86,6 +92,7 @@
         "years":"March 2021-April 2021",
         "description":"•Built a Music Player and deployed it as an android application. •Worked on Android Studio –used java language to integrate various functions of the app with the module"
       }
+      
     ],
     "skills":[
       {
